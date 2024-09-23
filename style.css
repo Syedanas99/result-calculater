@@ -1,0 +1,85 @@
+
+
+/* .{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: monospace;
+
+} */
+
+body{
+    justify-content: center;
+    align-items: center;
+    /* min-height: 100; */
+    display: flex;
+    background-color: powderblue;
+
+}
+
+.calc-body{
+    background-color: rgb(171, 10, 192);
+    border-radius: 20px;
+    height: 70vh;
+    width: 40vw;
+    border: 1px solid;
+    border: none;
+
+}
+/* .result{
+    position: absolute;
+    height: 80vh;
+    width: 20vw;
+    background-color: palegoldenrod;
+} */
+
+.result h1{
+    text-align: center;
+    color: #08edf0;
+   
+}
+.btn{
+    width: 30%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+    background-color: rgb(26, 248, 214);
+    
+
+}
+.hero{
+text-align: center;
+margin-top: 10%;
+}
+.hero input{
+    width: 50%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(26, 248, 214);
+}
+.hero-1{
+    font-size: 40px;
+    color: #33fbf8;
+   
+    
+}
+.hadding{
+font-size: 20px;
+color: #30d2d5;
+}
+#input{
+    
+    font-size: 20px;
+}
+.item{
+    color: rgb(8, 240, 15);
+}
+.lass{
+    color: rgb(240, 149, 63);
+}
+.marks{
+    color: rgb(224, 196, 12);
+}
